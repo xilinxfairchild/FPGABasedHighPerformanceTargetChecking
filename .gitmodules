@@ -1,1 +1,13 @@
 
+[submodule "XilinxSummer_algorithmCompress"]
+	path = XilinxSummer_algorithmCompress
+	url = https://github.com/xilinxfairchild/XilinxSummer_algorithmCompress.git
+[submodule "xilinxSummer_presentation"]
+	path = xilinxSummer_presentation
+	url = https://github.com/xilinxfairchild/xilinxSummer_presentation.git
+[submodule "XilinxSummer_platform"]
+	path = XilinxSummer_platform
+	url = https://github.com/xilinxfairchild/XilinxSummer_platform.git
+[submodule "XilinxSummer-AI-SDK_XU"]
+	path = XilinxSummer-AI-SDK_XU
+	url = https://github.com/xilinxfairchild/XilinxSummer-AI-SDK_XU.git
