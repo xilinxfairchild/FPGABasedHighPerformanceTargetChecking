@@ -1,6 +1,1 @@
-[submodule "Presentation"]
-	path = Presentation
-	url = https://github.com/xilinxfairchild/xilinxSummer_presentation.git
-[submodule "xilinxSummer_presentation"]
-	path = xilinxSummer_presentation
-	url = ./xilinxSummer_presentation/
+
