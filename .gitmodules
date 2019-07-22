@@ -1,6 +1,6 @@
 
 [submodule "XilinxSummer_algorithmCompress"]
-	path = 1_XilinxSummer_algorithmCompress
+	path = XilinxSummer_algorithmCompress
 	url = https://github.com/xilinxfairchild/XilinxSummer_algorithmCompress.git
 [submodule "xilinxSummer_presentation"]
 	path = xilinxSummer_presentation
